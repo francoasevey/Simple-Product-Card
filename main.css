@@ -88,3 +88,11 @@ body{
     height: 45px;
     transition: 0.3s;
 }
+.cart::before{
+    width: 165px;
+    border-radius: 50px;
+}
+.favourite::before{
+    width: 45px;
+    border-radius: 50%;
+}
