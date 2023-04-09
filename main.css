@@ -55,3 +55,19 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+.price{
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+.btn{
+    position: relative;
+    border: none;
+    outline: none;
+    background-color: #35353f;
+    color: #fff;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+}
