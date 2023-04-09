@@ -48,3 +48,10 @@ body{
     color: #5f5f6b;
     margin-top: 15px;
 }
+.buttons{
+    height: 65px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
