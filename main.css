@@ -38,3 +38,8 @@ body{
     font-family: "Poppims", sans-serif;
     color: #fff;
 }
+.ratong{
+    font-size: 0.7rem;
+    color: #fdcc0d;
+    user-select: none;
+}
