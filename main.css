@@ -38,7 +38,7 @@ body{
     font-family: "Poppims", sans-serif;
     color: #fff;
 }
-.ratong{
+.rating{
     font-size: 0.7rem;
     color: #fdcc0d;
     user-select: none;
@@ -46,11 +46,11 @@ body{
 .product-detail p{
     font-size: 0.8rem;
     color: #5f5f6b;
-    margin-top: 15px;
+    margin-top: 7px;
 }
 .buttons{
     height: 65px;
-    margin-top: 15px;
+    margin-top: 5px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -95,4 +95,7 @@ body{
 .favourite::before{
     width: 45px;
     border-radius: 50%;
+}
+.btn:hover::before{
+    border-color: #fff;
 }
