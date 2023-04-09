@@ -43,3 +43,8 @@ body{
     color: #fdcc0d;
     user-select: none;
 }
+.product-detail p{
+    font-size: 0.8rem;
+    color: #5f5f6b;
+    margin-top: 15px;
+}
