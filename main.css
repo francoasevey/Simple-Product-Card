@@ -24,9 +24,9 @@ body{
 .product-img{
     width: 300px;
     height: 230px;
-    background-image: url("images/product.jpg");
+    background-image: url("https://camerareviews.com/wp-content/uploads/2022/07/sony_zv_e10_mirrorless.png");
     background-repeat: no-repeat;
-    background-position: 0 -75px;
+    background-position: 0 -40px;
     background-size: cover;
 }
 .product-detail{
