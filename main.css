@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100%;
+    background-color: #1a1b21;
 }
 .container{
     display: flex;
@@ -16,22 +17,22 @@ body{
     align-items: center;
 }
 .card{
-    width: 300px;
+    width: 409px;
     height: 420px;
     position: relative;
     background-color: #f0f0f0;
 }
 .product-img{
-    width: 300px;
-    height: 230px;
+    width: 350px;
+    height: 280px;
     background-image: url("/camera.png");
     background-repeat: no-repeat;
     background-position: 0 -40px;
     background-size: cover;
 }
 .product-detail{
-    width: 300px;
-    height: 190px;
+    width: 410px;
+    height: 310px;
     background-color: #21222d;
     border-radius: 0 40% 0 0;
     padding: 0.8rem;
@@ -39,13 +40,13 @@ body{
     color: #fff;
 }
 .rating{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     color: #fdcc0d;
     user-select: none;
 }
 .product-detail p{
-    font-size: 0.8rem;
-    color: #5f5f6b;
+    font-size: 0.9rem;
+    color: #616166;
     margin-top: 7px;
 }
 .buttons{
